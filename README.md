@@ -25,7 +25,7 @@ I enjoy understanding how protocols and systems communicate at a low level and c
 ---
 
 ### Key Skills
-- **Wireshark**, **Cisco Packet Tracer**, **Kali Linux**  
+- **Wireshark**, **Kali Linux**, **Cisco Packet Tracer** 
 - Network protocols: **SSH, HTTP, DNS, TCP/IP**  
 - Electronics & applied physics (**electricity & EM waves**)  
 - **Proteus** & **GNU Radio**  
