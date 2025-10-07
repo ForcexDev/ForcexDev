@@ -1,9 +1,8 @@
-<h2 align="center">Hello there!, I'm Ezequiel Morales</h2>
-<h3 align="center">Studying Computer Science and Telecommunications Engineering at (UDP)</h3>
+<h3 align="center">Hello there!, I'm Ezequiel Morales</h3>
 
 ---
 
-### ⚡ About Me
+### About Me
 I’m passionate about **computer networks**, **network services**, and **cybersecurity**, where I enjoy understanding how protocols and systems communicate at a low level.  
 I’ve worked with a wide range of tools and technologies, and I’m constantly learning new things to strengthen my technical skills.
 
@@ -13,49 +12,55 @@ I’ve participated in **CTF events** focused on **ethical hacking**, using tool
 
 ---
 
-### 🧠 Languages & Frameworks
+### Languages & Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,js,lua,html,css" />
 </p>
 
 ---
 
-### 🧰 Tools & Databases
+### Tools & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,docker,express,nodejs,aws,mongodb,mysql" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PgAdmin_logo.svg" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,express,nodejs,nginx,aws,postgres,mongodb" />
+
 </p>
 
 ---
 
-### 🖥️ OS & Networking
+### OS & Networking
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="45" height="45" />
-</p>
+  <img src="https://skillicons.dev/icons?i=linux,windows,kali,ubuntu" />
 
-💡 Experienced with:
-- **Wireshark** & **Cisco Packet Tracer**  
-- **Kali Linux** for penetration testing and network security  
-- **SSH, HTTP, DNS, TCP/IP** protocols analysis
-- **GNU Radio** & **Proteus**  
+---
+### UI Design and modeling
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ps,blender" />
+</p>
 
 ---
 
-### 🚀 Currently Learning
+### Currently Learning
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker"/>
 </p>
 
----
-
-### 🎨 Other Interests
-- Web and UI design (experience with **Photoshop** and **Figma**)  
-- Electronics and applied physics (especially **electricity and electromagnetic waves**)  
 
 ---
 
-### 🌐 Connect with Me
+Experienced with:
+- **Wireshark** & **Cisco Packet Tracer**  
+- **Kali Linux** for penetration testing and network security  
+- **SSH, HTTP, DNS, TCP/IP** protocols analysis
+- **Proteus**  &  **GNU radio**
+
+---
+
+### Other Interests
+- Electronics and applied physics (especially **electricity and electromagnetic waves**)
+
+---
+
+### Networks
 <p align="left">
   <a href="https://github.com/ForcexDev" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
@@ -70,7 +75,3 @@ I’ve participated in **CTF events** focused on **ethical hacking**, using tool
     <img src="https://img.shields.io/badge/LeetCode-%23121212.svg?style=for-the-badge&logo=leetcode&logoColor=yellow" />
   </a>
 </p>
-
----
-
-⭐ From [@ForcexDev](https://github.com/ForcexDev)
