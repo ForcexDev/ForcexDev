@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Ezequiel Morales</h1>
-<h3 align="center">Computer Science and Telecommunications Engineering Student @ Universidad Diego Portales</h3>
+<h2 align="center">Hello there!, I'm Ezequiel Morales</h2>
+<h3 align="center">Studying Computer Science and Telecommunications Engineering at (UDP)</h3>
 
 ---
 
@@ -8,9 +8,6 @@ I’m passionate about **computer networks**, **network services**, and **cybers
 I’ve worked with a wide range of tools and technologies, and I’m constantly learning new things to strengthen my technical skills.
 
 I’ve participated in **CTF events** focused on **ethical hacking**, using tools like *Wireshark*, *Gobuster*, and *Kali Linux* to analyze and exploit vulnerabilities.  
-I also have experience with **web development**, combining backend logic with clean and functional interfaces.
-
-Currently, I’m exploring **Docker** and **graph databases (Neo4j)** to enhance my understanding of modern networked systems.
 
 > “May the code be with you.” 🌌
 
@@ -25,7 +22,8 @@ Currently, I’m exploring **Docker** and **graph databases (Neo4j)** to enhance
 
 ### 🧰 Tools & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,docker,mysql,mongodb,express,nodejs,aws" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,docker,express,nodejs,aws,mongodb,mysql" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PgAdmin_logo.svg" width="45" height="45" />
 </p>
 
 ---
@@ -38,9 +36,9 @@ Currently, I’m exploring **Docker** and **graph databases (Neo4j)** to enhance
 
 💡 Experienced with:
 - **Wireshark** & **Cisco Packet Tracer**  
-- **GNU Radio** & **Proteus**  
 - **Kali Linux** for penetration testing and network security  
 - **SSH, HTTP, DNS, TCP/IP** protocols analysis
+- **GNU Radio** & **Proteus**  
 
 ---
 
@@ -53,7 +51,7 @@ Currently, I’m exploring **Docker** and **graph databases (Neo4j)** to enhance
 
 ### 🎨 Other Interests
 - Web and UI design (experience with **Photoshop** and **Figma**)  
-- Electronics and applied physics (especially **electricity and magnetism waves**)  
+- Electronics and applied physics (especially **electricity and electromagnetic waves**)  
 
 ---
 
