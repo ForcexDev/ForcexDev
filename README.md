@@ -25,7 +25,7 @@ Currently, I’m exploring **Docker** and **graph databases (Neo4j)** to enhance
 
 ### 🧰 Tools & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,docker,mysql,mongodb,neo4j,express,nodejs,aws" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,docker,mysql,mongodb,neo4j,express,nodejs,aws,webstorm" />
 </p>
 
 ---
@@ -37,10 +37,11 @@ Currently, I’m exploring **Docker** and **graph databases (Neo4j)** to enhance
 </p>
 
 💡 Experienced with:
+- **Kali Linux** for penetration testing and network security
+- **SSH, HTTP, DNS, TCP/IP** protocols analysis
 - **Wireshark** & **Cisco Packet Tracer**  
 - **GNU Radio** & **Proteus**  
-- **Kali Linux** for penetration testing and network security  
-- **SSH, HTTP, DNS, TCP/IP** protocols analysis
+
 
 ---
 
@@ -53,8 +54,7 @@ Currently, I’m exploring **Docker** and **graph databases (Neo4j)** to enhance
 
 ### 🎨 Other Interests
 - Web and UI design (experience with **Photoshop** and **Figma**)  
-- Electronics and applied physics (especially **electricity and magnetism**)  
-- Big fan of **Star Wars**, which often inspires my creative side 🌌
+- Electronics and applied physics (especially **electricity and magnetism**)
 
 ---
 
