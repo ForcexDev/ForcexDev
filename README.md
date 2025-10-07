@@ -61,10 +61,7 @@ Experienced with:
 ---
 
 ### Networks
-<p align="left">
-  <a href="https://github.com/ForcexDev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+<p align="center">
   <a href="https://discord.com/users/forcex" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
