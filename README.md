@@ -12,7 +12,7 @@ I also have experience with **web development**, combining backend logic with cl
 
 Currently, I’m exploring **Docker** and **graph databases (Neo4j)** to enhance my understanding of modern networked systems.
 
-> “May the code be with you.” ✨
+> “May the code be with you.” 🌌
 
 ---
 
@@ -25,7 +25,7 @@ Currently, I’m exploring **Docker** and **graph databases (Neo4j)** to enhance
 
 ### 🧰 Tools & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,docker,mysql,mongodb,neo4j,express,nodejs,aws,webstorm" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,docker,mysql,mongodb,express,nodejs,aws" />
 </p>
 
 ---
@@ -37,24 +37,23 @@ Currently, I’m exploring **Docker** and **graph databases (Neo4j)** to enhance
 </p>
 
 💡 Experienced with:
-- **Kali Linux** for penetration testing and network security
-- **SSH, HTTP, DNS, TCP/IP** protocols analysis
 - **Wireshark** & **Cisco Packet Tracer**  
 - **GNU Radio** & **Proteus**  
-
+- **Kali Linux** for penetration testing and network security  
+- **SSH, HTTP, DNS, TCP/IP** protocols analysis
 
 ---
 
 ### 🚀 Currently Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,neo4j,aws" />
+  <img src="https://skillicons.dev/icons?i=docker"/>
 </p>
 
 ---
 
 ### 🎨 Other Interests
 - Web and UI design (experience with **Photoshop** and **Figma**)  
-- Electronics and applied physics (especially **electricity and magnetism**)
+- Electronics and applied physics (especially **electricity and magnetism waves**)  
 
 ---
 
@@ -62,9 +61,6 @@ Currently, I’m exploring **Docker** and **graph databases (Neo4j)** to enhance
 <p align="left">
   <a href="https://github.com/ForcexDev" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://instagram.com/ezeforce_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://discord.com/users/forcex" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
