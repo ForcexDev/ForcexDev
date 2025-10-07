@@ -32,7 +32,7 @@ I’ve participated in **CTF events** focused on **ethical hacking**, using tool
   <img src="https://skillicons.dev/icons?i=linux,windows,kali,ubuntu" />
 
 ---
-### UI Design and modeling
+### UI Design & Modeling
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ps,blender" />
 </p>
