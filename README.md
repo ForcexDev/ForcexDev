@@ -33,6 +33,7 @@ Currently, I’m exploring **Docker** and **graph databases (Neo4j)** to enhance
 ### 🖥️ OS & Networking
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="45" height="45" />
 </p>
 
 💡 Experienced with:
