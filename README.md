@@ -12,7 +12,7 @@ I enjoy understanding how protocols and systems communicate at a low level and c
 
 ### Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,css,java,python,lua,bash,js,html,vscode,git,express,nodejs,nginx,aws,ps,blender,postgres,mongodb,linux,windows,kali,ubuntu,docker" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,lua,bash,js,html,css,vscode,git,express,nodejs,nginx,aws,ps,blender,postgres,mongodb,linux,windows,kali,ubuntu,docker" />
 </p>
 
 ---
