@@ -1,4 +1,6 @@
-<h3 align="center">Hello there! I'm Ezequiel Morales</h3>
+<p align="center">
+<img src="https://github.com/ForcexDev/ForcexDev/blob/main/200h.gif" width="1000"/>
+</p>
 
 ---
 
@@ -6,9 +8,6 @@
 I’m passionate about **computer networks**, **network services**, and **cybersecurity**.  
 I enjoy understanding how protocols and systems communicate at a low level and constantly learning new tools and technologies.
 
-<p align="center">
-<img src="https://github.com/ForcexDev/ForcexDev/blob/main/200h.gif" width="1000"/>
-</p>
 
 ---
 
