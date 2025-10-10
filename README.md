@@ -40,14 +40,6 @@ I enjoy understanding how protocols and systems communicate at a low level and c
 
 ### Connect
 <p align="center">
-  <a href="https://discord.com/users/forcex" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-  <a href="https://tryhackme.com/p/ForcexDev" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-%23121212.svg?style=for-the-badge&logo=tryhackme&logoColor=red" />
-  </a>
-  <a href="https://leetcode.com/ForcexDev/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23121212.svg?style=for-the-badge&logo=leetcode&logoColor=yellow" />
-  </a>
+  <a href="https://discord.com/users/forcex" target="_blank"><img src="https://img.shields.io/badge/Discord-%23121212.svg?style=for-the-badge&logo=discord&logoColor=%235865F2" /></a><a href="https://tryhackme.com/p/ForcexDev" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-%23121212.svg?style=for-the-badge&logo=tryhackme&logoColor=red" /></a><a href="https://leetcode.com/ForcexDev/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23121212.svg?style=for-the-badge&logo=leetcode&logoColor=yellow" /></a>
 </p>
 
