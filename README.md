@@ -34,7 +34,7 @@ I enjoy understanding how protocols and systems communicate at a low level and c
 ---
 
 ### Projects
-- [Chess Web Page](https://tusitio.com/ajedrez) – Interactive chess platform built with JavaScript
+- [Chess Web Page](https://github.com/ForcexDev/GrandChessAuto_DesarrolloWeb) – Interactive chess platform built with JavaScript
 
 ---
 
