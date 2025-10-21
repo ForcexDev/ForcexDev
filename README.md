@@ -34,7 +34,7 @@ I enjoy understanding how protocols and systems communicate at a low level and c
 ---
 
 ### Projects
-- [Portfolio](https://forcexdev.github.io/ForcexDevPort/) – Checkout my portfolio :copilot:
+- [Portfolio](https://forcexdev.github.io/Portfolio/) – Checkout my portfolio :copilot:
 
 ---
 
