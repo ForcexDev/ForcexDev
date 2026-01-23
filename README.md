@@ -35,6 +35,8 @@ I enjoy understanding how protocols and systems communicate at a low level and c
 
 ### Projects
 - [Portfolio](https://forcexdev.github.io/Portfolio/) – Checkout my portfolio :copilot:
+- [Chess](https://grandchessauto.forcex.dev) - Go play in an modern chess experience! ♟️
+
 
 ---
 
