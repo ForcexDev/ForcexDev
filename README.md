@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=35&color=0:000F5C,100:0043FF&text=About%20Me&fontColor=ffffff&fontSize=22&reversal=true&section=header&textBg=false&animation=twinkling&fontAlignY=56" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=35&color=0:020021,100:0029BB&text=About%20Me&fontColor=ffffff&fontSize=22&reversal=true&section=header&textBg=false&fontAlignY=56" width="100%" />
 </div>
 
 <br>
@@ -75,7 +75,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=35&color=0:000F5C,100:0043FF&text=Projects&fontColor=ffffff&fontSize=22&reversal=true&section=header&textBg=false&animation=twinkling&fontAlignY=56" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=35&color=0:020021,100:0029BB&text=Projects&fontColor=ffffff&fontSize=22&reversal=true&section=header&textBg=false&fontAlignY=56" width="100%" />
 </div>
 
 <br>
@@ -90,7 +90,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=35&color=0:000F5C,100:0043FF&text=Connect&fontColor=ffffff&fontSize=22&reversal=true&section=header&textBg=false&animation=twinkling&fontAlignY=56" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=35&color=0:020021,100:0029BB&text=Connect&fontColor=ffffff&fontSize=22&reversal=true&section=header&textBg=false&fontAlignY=56" width="100%" />
 </div>
 
 <br>
