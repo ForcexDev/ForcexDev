@@ -2,12 +2,6 @@
   <img src="https://github.com/ForcexDev/ForcexDev/blob/main/200h.gif" width="100%"/>
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=35&color=0:020021,100:0029BB&text=About%20Me&fontColor=ffffff&fontSize=22&reversal=true&section=header&textBg=false&fontAlignY=56" width="100%" />
-</div>
-
-<br>
-
 <p align="center">
   I’m passionate about <b>cybersecurity</b>, <b>computer networks</b>, and <b>network services</b>.<br>
   I enjoy understanding how protocols and systems communicate at a low level and constantly learning new tools and technologies.
@@ -74,12 +68,6 @@
 </table>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=35&color=0:020021,100:0029BB&text=Projects&fontColor=ffffff&fontSize=22&reversal=true&section=header&textBg=false&fontAlignY=56" width="100%" />
-</div>
-
-<br>
-
 <p align="center">
   Feel free to explore my latest projects.<br>
   Here are some highlights you can check out live:
@@ -88,12 +76,6 @@
 <p align="center">
 <a href="https://forcexdev.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/📂_Portfolio-View_Live_Demo-0078D4?style=for-the-badge&logo=github" height="40" alt="Portfolio" /></a><a href="https://grandchessauto.forcex.dev" target="_blank"><img src="https://img.shields.io/badge/♟️_Grand_Chess_Auto-Play_Now-2EA44F?style=for-the-badge" height="40" alt="Chess Game" /></a>
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=35&color=0:020021,100:0029BB&text=Connect&fontColor=ffffff&fontSize=22&reversal=true&section=header&textBg=false&fontAlignY=56" width="100%" />
-</div>
-
-<br>
 
 <p align="center">
 <a href="https://discord.com/users/forcex" target="_blank"><img src="https://img.shields.io/badge/Discord-%23121212.svg?style=for-the-badge&logo=discord&logoColor=%235865F2" /></a><a href="https://tryhackme.com/p/ForcexDev" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-%23121212.svg?style=for-the-badge&logo=tryhackme&logoColor=red" /></a><a href="https://leetcode.com/ForcexDev/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23121212.svg?style=for-the-badge&logo=leetcode&logoColor=yellow" /></a>
