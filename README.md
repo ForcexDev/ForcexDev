@@ -74,7 +74,7 @@
 </p>
 
 <p align="center">
-<a href="https://forcexdev.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/📂_Portfolio-View_Live_Demo-0078D4?style=for-the-badge&logo=github" height="40" alt="Portfolio" /></a><a href="https://grandchessauto.forcex.dev" target="_blank"><img src="https://img.shields.io/badge/♟️_Grand_Chess_Auto-Play_Now-2EA44F?style=for-the-badge" height="40" alt="Chess Game" /></a>
+<a href="https://forcexdev.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/📂_Portfolio-View_projects-0078D4?style=for-the-badge" height="40" alt="Portfolio" /></a><a href="https://grandchessauto.forcex.dev" target="_blank"><img src="https://img.shields.io/badge/♟️_Grand_Chess_Auto-Play_Now-2EA44F?style=for-the-badge" height="40" alt="Chess Game" /></a><a href="https://iaimagebetter.forcex.dev" target="_blank"><img src="https://img.shields.io/badge/🖼️_IA_image_Better-Try_demo-660099?style=for-the-badge" height="40" alt="Enchance Image" /></a>
 </p>
 
 <p align="center">
