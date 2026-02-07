@@ -13,61 +13,6 @@
   </a>
 </div>
 
-<div align="center">
-<table width="100%">
-<tr>
-<th align="center">Languages & Tools</th>
-</tr>
-<tr>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python" />
-  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx" />
-  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws" />
-  <img src="https://img.icons8.com/color/48/oracle-logo.png" height="40" title="Oracle Cloud" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb" />
-  <img src="https://skillicons.dev/icons?i=kali" height="40" alt="kali" />
-  <img src="https://cdn.simpleicons.org/metasploit/0B77B8" height="40" title="Metasploit" />
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="40" title="Burp Suite" />
-  <img src="https://cdn.simpleicons.org/wireshark/00BFFF" height="40" title="Wireshark" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino" />
-  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion" />
-<br>
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-<table width="100%">
-<tr>
-<th align="center">Currently Learning</th>
-</tr>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=kali,lua,cloudflare" height="40" alt="learning" />
-<br>
-</td>
-</tr>
-</table>
-</div>
-
 <p align="center">
   Feel free to explore my latest projects.<br>
   Here are some highlights you can check out live:
