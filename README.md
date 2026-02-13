@@ -23,6 +23,10 @@
 </p>
 
 <p align="center">
+<a href="https://smart-class-notes.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🎙️_Smart_class_notes-Summarize_now-660099?style=for-the-badge" height="40" alt="Enchance Image" /></a>
+</p>
+
+<p align="center">
 <a href="https://discord.com/users/forcex" target="_blank"><img src="https://img.shields.io/badge/Discord-%23121212.svg?style=for-the-badge&logo=discord&logoColor=%235865F2" /></a><a href="https://tryhackme.com/p/ForcexDev" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-%23121212.svg?style=for-the-badge&logo=tryhackme&logoColor=red" /></a><a href="https://leetcode.com/ForcexDev/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23121212.svg?style=for-the-badge&logo=leetcode&logoColor=yellow" /></a>
 </p>
 
